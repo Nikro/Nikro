@@ -51,7 +51,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nikro/flexible-gatsby-d8-blog?style=flat-square&labelColor=343b41"/></td>
     </tr>    
     <tr>
-      <td><a href="https://github.com/Nikro/docker-husky-py-boilerplate"><b>Docker + Husky (linting, commit) + Python Template / Boilerplate</b></a></td>
+      <td><a href="https://github.com/Nikro/docker-husky-py-boilerplate"><b>Template / Boilerplate: Docker (husky/python)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Nikro/docker-husky-py-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Nikro/docker-husky-py-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Nikro/docker-husky-py-boilerplate?style=flat-square&labelColor=343b41"/></td>
