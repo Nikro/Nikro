@@ -16,10 +16,28 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/HumanFace-Tech/nichebench"><b>🔥 NicheBench</b></a><br/><small>DeepEval-based CLI for benchmarking LLMs on framework-specific tasks with multi-turn agents and pass/partial/fail scoring.</small></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HumanFace-Tech/nichebench?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HumanFace-Tech/nichebench?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HumanFace-Tech/nichebench?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/HumanFace-Tech/hft-cpu-test"><b>🔥 HFT CPU Test</b></a><br/><small>Config-driven llama-bench wrapper for systematic CPU inference testing on multi-core NUMA systems with exploratory and deep parameter sweeps.</small></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HumanFace-Tech/hft-cpu-test?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HumanFace-Tech/hft-cpu-test?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HumanFace-Tech/hft-cpu-test?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Nikro/MMM-WhisperGPT"><b>MMM-WhisperGPT</b></a><br/><small>MagicMirror² assistant that blends Whisper and GPT to drive a hands-free home dashboard.</small></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Nikro/MMM-WhisperGPT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Nikro/MMM-WhisperGPT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Nikro/MMM-WhisperGPT?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/HumanFace-Tech/whisper-recorder-ui"><b>Whisper Recorder UI v2</b></a><br/><small>Installable PWA that routes microphone input through Whisper and Groq/OpenAI-compatible LLMs with presets for local, cloud, and hybrid setups.</small></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HumanFace-Tech/whisper-recorder-ui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HumanFace-Tech/whisper-recorder-ui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HumanFace-Tech/whisper-recorder-ui?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Nikro/flexible-gatsby-d8-blog"><b>Flexible Gatsby D8 Blog</b></a><br/><small>Drupal + Gatsby starter focused on decoupled publishing workflows and rapid prototyping.</small></td>
@@ -38,18 +56,6 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/HumanFace-Tech/whisper-asr-with-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/HumanFace-Tech/whisper-asr-with-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/HumanFace-Tech/whisper-asr-with-ui?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/HumanFace-Tech/whisper-recorder-ui"><b>Whisper Recorder UI v2</b></a><br/><small>Installable PWA that routes microphone input through Whisper and Groq/OpenAI-compatible LLMs with presets for local, cloud, and hybrid setups.</small></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/HumanFace-Tech/whisper-recorder-ui?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/HumanFace-Tech/whisper-recorder-ui?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/HumanFace-Tech/whisper-recorder-ui?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/HumanFace-Tech/nichebench"><b>NicheBench</b></a><br/><small>DeepEval-based CLI for benchmarking LLMs on framework-specific tasks with multi-turn agents and pass/partial/fail scoring.</small></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/HumanFace-Tech/nichebench?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/HumanFace-Tech/nichebench?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/HumanFace-Tech/nichebench?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -86,8 +92,10 @@
   </tbody>
 </table>
 
-<h3>My latest articles (September 22, 2025)</h3>
+<h3>My latest articles (October 17, 2025)</h3>
 <ul>
+  <li><a href="https://nikro.me/articles/professional/cpu-only-llm-inference/"><b>🔥 CPU-only LLM Inference</b></a><br/><i>Systematic CPU inference testing on AMD Threadripper 1950X - exploring NUMA strategies, build variants, and runtime knobs to optimize llama.cpp performance.</i></li>
+  <li><a href="https://nikro.me/articles/professional/quietbee-building-home-ai-lab-fine-tuning/"><b>🐝 QuietBee: Building a Home AI Lab for Fine-Tuning</b></a><br/><i>Building a powerful, budget-friendly home AI lab for fine-tuning and inference under €2,000 - comparing hardware paths and assembling a modular multi-GPU setup.</i></li>
   <li><a href="https://nikro.me/articles/professional/nichebench-benching-ais-vs-drupal-10-11/"><b>🧪 NicheBench - Benching AIs vs Drupal 10-11</b></a><br/><i>Deep-dive into our Deepeval-driven benchmark that grades open-weight models on Drupal-specific quizzes and code generation.</i></li>
   <li><a href="https://nikro.me/articles/professional/ai-fine-tuning-experiment/"><b>🤖 AI Fine-tuning Experiment</b></a><br/><i>Notes from the homelab while fine-tuning open models, tooling the pipeline, and measuring what actually improves.</i></li>
   <li><a href="https://nikro.me/articles/professional/vibe-coding-voice/"><b>🎙️ Vibe-coding with Voice</b></a><br/><i>How Whisper, Groq, and AI copilots let me sketch production code by talking instead of typing.</i></li>
